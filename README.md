@@ -1,1 +1,0 @@
-# uczenie_maszynowe
